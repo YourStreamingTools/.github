@@ -18,9 +18,11 @@ Real-time weather updates at your fingertips. Integrate live weather information
 
 Access a vast collection of public quotes. Add depth and interest to your content with meaningful quotes.
 
-### DMCA Music API
+## DMCA Music Tool
 
-Stream music worry-free with our DMCA-compliant music API. Keep your content lively and engaging without risking takedowns.
+While not strictly an API, we've developed a handy tool to enhance your streaming experience by providing DMCA-compliant music. This tool functions as a browser source, easily integrated into streaming software like OBS. By adding this as a source in OBS, you can access about 5 hours of music that automatically loops once the playlist ends, ensuring your stream always has background music without risking DMCA takedown notices.
+
+To utilize this feature, simply visit [music.yourstreaming.tools](https://music.yourstreaming.tools) for detailed instructions on setting up and integrating this tool into your streams.
 
 ## Todo List Project
 
