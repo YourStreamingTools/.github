@@ -22,9 +22,11 @@ Access a vast collection of public quotes. Add depth and interest to your conten
 
 Stream music worry-free with our DMCA-compliant music API. Keep your content lively and engaging without risking takedowns.
 
-### Todo List API
+## Todo List Project
 
-Organize your tasks and stream schedules efficiently with our Todo List API. Manage your workflow and keep your content on track.
+The Todo List is not just another API; it's a comprehensive project designed to help organize your tasks and stream schedules efficiently. Explore the project to enhance your workflow and keep your content on track.
+
+For more information and to get started, visit the project's [website](https://yourlist.online/) or check out the GitHub page: [YourListOnline](https://github.com/YourStreamingTools/YourListOnline).
 
 ## Custom Twitch Bot
 
